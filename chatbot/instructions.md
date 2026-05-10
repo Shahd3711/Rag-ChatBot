@@ -115,7 +115,7 @@ User Input
 | Layer | Technology |
 |-------|------------|
 | Frontend | HTML5 + CSS3 + Vanilla JS |
-| Backend | Flask (Python) |
+| Backend | Python|
 | LLM | OpenAI GPT-4o-mini |
 | Embeddings | text-embedding-3-small |
 | Vector Store | ChromaDB (local) |
