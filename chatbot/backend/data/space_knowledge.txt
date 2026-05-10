@@ -1,0 +1,119 @@
+SPACE EXPLORATION & ASTRONOMY KNOWLEDGE BASE
+============================================
+
+## THE SOLAR SYSTEM
+
+### The Sun
+The Sun is a G-type main-sequence star (G2V) at the center of our Solar System. It contains 99.86% of the Solar System's total mass. The Sun's core temperature reaches approximately 15 million degrees Celsius, where nuclear fusion converts hydrogen into helium. The Sun's surface (photosphere) temperature is about 5,500°C. Solar flares and coronal mass ejections (CMEs) can affect Earth's magnetic field and disrupt satellites.
+
+### Mercury
+Mercury is the smallest planet and closest to the Sun. Its surface temperature swings from -180°C at night to 430°C during the day. Mercury has no atmosphere to retain heat. NASA's MESSENGER spacecraft orbited Mercury from 2011 to 2015. BepiColombo, a joint ESA/JAXA mission, is currently en route to Mercury.
+
+### Venus
+Venus is the hottest planet in the Solar System with a surface temperature of about 465°C due to its thick CO2 atmosphere causing a runaway greenhouse effect. Its atmosphere has 90 times the pressure of Earth's. Venus rotates retrograde (opposite to most planets). The Soviet Venera probes successfully landed on Venus between 1970 and 1985.
+
+### Earth
+Earth is the only known planet with confirmed life. It has one natural satellite — the Moon. Earth's atmosphere is 78% nitrogen and 21% oxygen. The planet is approximately 4.5 billion years old. Earth's magnetic field protects it from solar wind.
+
+### The Moon
+The Moon is Earth's only natural satellite, at a distance of about 384,400 km. It was formed approximately 4.5 billion years ago, likely from debris after a Mars-sized body (Theia) collided with early Earth. The Apollo program landed 12 astronauts on the Moon between 1969 and 1972. Apollo 11 in July 1969 was the first crewed lunar landing, with Neil Armstrong and Buzz Aldrin. NASA's Artemis program aims to return humans to the Moon. The Moon has no atmosphere and its surface is covered with regolith and craters.
+
+### Mars
+Mars is the fourth planet and the most explored planet after Earth. Its atmosphere is 95% CO2 and very thin. Mars has the tallest volcano in the Solar System — Olympus Mons, standing 21.9 km high. It also has Valles Marineris, a canyon system stretching 4,000 km. Mars has two small moons: Phobos and Deimos. NASA's Perseverance rover landed in Jezero Crater in February 2021 to search for signs of ancient microbial life. Ingenuity, the first powered aircraft on another planet, flew alongside Perseverance. InSight lander studied Marsquakes until 2022. Elon Musk's SpaceX has ambitions to send humans to Mars.
+
+### Asteroid Belt
+The asteroid belt lies between Mars and Jupiter. It contains millions of rocky bodies ranging from dust to dwarf planet Ceres. Ceres is the largest object in the asteroid belt, with a diameter of about 940 km. NASA's Dawn spacecraft orbited Ceres from 2015 to 2018.
+
+### Jupiter
+Jupiter is the largest planet, with a mass greater than all other planets combined. Its Great Red Spot is a storm larger than Earth that has persisted for hundreds of years. Jupiter has 95 confirmed moons. Europa, one of Jupiter's moons, may harbor a liquid water ocean beneath its icy surface, making it a candidate for extraterrestrial life. Ganymede is the largest moon in the Solar System. Io is the most volcanically active body in the Solar System. NASA's Juno spacecraft has been studying Jupiter since 2016. The Europa Clipper mission launched in 2024 to study Europa.
+
+### Saturn
+Saturn is famous for its stunning ring system made of ice and rock particles. It has 146 confirmed moons. Titan, Saturn's largest moon, is the only moon with a thick atmosphere and has lakes of liquid methane. Enceladus shoots geysers of water vapor from its south pole, suggesting a subsurface ocean. The Cassini-Huygens mission explored Saturn from 2004 to 2017. The Huygens probe landed on Titan in January 2005.
+
+### Uranus
+Uranus is an ice giant that rotates on its side with an axial tilt of 98 degrees. It has 27 known moons, all named after characters from Shakespeare and Alexander Pope. Uranus was discovered by William Herschel in 1781. It has a faint ring system. NASA is planning a future Uranus orbiter and probe mission.
+
+### Neptune
+Neptune is the farthest planet from the Sun, at about 30 AU. It has the strongest winds in the Solar System, reaching 2,100 km/h. Its largest moon, Triton, orbits retrograde and is likely a captured Kuiper Belt Object. Neptune was discovered in 1846. Voyager 2 is the only spacecraft to have visited Neptune (1989).
+
+## STARS AND STELLAR OBJECTS
+
+### Star Classification
+Stars are classified by spectral type: O, B, A, F, G, K, M (from hottest to coolest). Our Sun is type G. Red dwarf stars (type M) are the most common in the universe and can burn for trillions of years. Blue supergiants are the hottest and most luminous but short-lived. The Hertzsprung-Russell diagram plots stars by luminosity vs temperature.
+
+### Neutron Stars and Pulsars
+Neutron stars are the collapsed cores of massive stars after supernova explosions. They have densities so extreme that a teaspoon of neutron star material would weigh billions of tons. Pulsars are rapidly rotating neutron stars that emit beams of electromagnetic radiation. The first pulsar was discovered by Jocelyn Bell Burnell in 1967.
+
+### Black Holes
+Black holes are regions of spacetime where gravity is so strong that nothing — not even light — can escape. The event horizon is the boundary of no return. Stellar black holes form from collapsed massive stars. Supermassive black holes exist at the centers of most galaxies. Sagittarius A* is the supermassive black hole at the center of the Milky Way, with a mass of about 4 million solar masses. The first image of a black hole was captured in 2019 (M87*) by the Event Horizon Telescope. In 2022, the EHT imaged Sagittarius A*.
+
+### Supernovae
+A supernova is the explosive death of a star. Type II supernovae occur when massive stars exhaust their fuel and collapse. Type Ia supernovae involve white dwarfs in binary systems. Supernovae distribute heavy elements throughout galaxies. SN 1987A was the most observed supernova in modern times, occurring in the Large Magellanic Cloud.
+
+### White Dwarfs
+White dwarfs are the remnants of low-mass stars like our Sun. They are roughly the size of Earth but have a mass comparable to the Sun. They slowly cool over billions of years.
+
+## GALAXIES AND COSMOLOGY
+
+### The Milky Way
+The Milky Way is a barred spiral galaxy approximately 100,000 light-years across. It contains 100-400 billion stars. Our Solar System is located in the Orion Arm, about 26,000 light-years from the galactic center. The Milky Way has satellite galaxies, including the Large and Small Magellanic Clouds. It is part of the Local Group of galaxies.
+
+### Andromeda Galaxy (M31)
+The Andromeda Galaxy is the nearest large galaxy to the Milky Way, about 2.537 million light-years away. It is larger than the Milky Way and contains about 1 trillion stars. The Milky Way and Andromeda are on a collision course, expected to merge in about 4.5 billion years.
+
+### The Big Bang
+The universe began approximately 13.8 billion years ago in an event called the Big Bang. The universe started from an extremely hot, dense state and has been expanding ever since. The Cosmic Microwave Background (CMB) is the afterglow of the Big Bang and was discovered in 1965 by Arno Penzias and Robert Wilson.
+
+### Dark Matter and Dark Energy
+Dark matter makes up about 27% of the universe's total mass-energy content. It does not interact with electromagnetic radiation but exerts gravitational effects. Dark energy makes up about 68% of the universe and is responsible for the accelerating expansion of the universe. Together, dark matter and dark energy constitute 95% of the universe — ordinary matter is only 5%.
+
+### Exoplanets
+Exoplanets are planets orbiting stars other than the Sun. Over 5,500 exoplanets have been confirmed as of 2024. The first confirmed exoplanets were discovered in 1992 around a pulsar. The Kepler Space Telescope discovered thousands of exoplanets between 2009 and 2018. The James Webb Space Telescope (JWST) can analyze exoplanet atmospheres. The habitable zone (Goldilocks zone) is the region around a star where liquid water could exist on a planet's surface.
+
+## SPACE EXPLORATION MISSIONS AND AGENCIES
+
+### NASA
+NASA (National Aeronautics and Space Administration) was founded in 1958. Major programs include: Apollo (Moon landings), Space Shuttle (1981-2011), International Space Station, Hubble Space Telescope, Mars rovers (Curiosity, Perseverance), Voyager probes, Cassini, New Horizons, James Webb Space Telescope, and the Artemis program.
+
+### James Webb Space Telescope (JWST)
+JWST launched on December 25, 2021, and reached its orbit at L2 (1.5 million km from Earth). It is the most powerful space telescope ever built. JWST observes in infrared wavelengths, allowing it to see through dust clouds and observe the earliest galaxies. It has provided unprecedented images of star-forming regions, exoplanet atmospheres, and distant galaxies.
+
+### Hubble Space Telescope
+Hubble launched in 1990 and has operated for over 34 years. Despite an initial mirror flaw corrected in 1993, Hubble produced iconic images like the Pillars of Creation and the Hubble Deep Field. It observes in ultraviolet, visible, and near-infrared light.
+
+### Voyager Probes
+Voyager 1 and 2 were launched in 1977. Voyager 1 is the farthest human-made object, having entered interstellar space in 2012. Voyager 2 entered interstellar space in 2018 and is the only spacecraft to have visited Uranus and Neptune. Both carry the Golden Record — a collection of sounds and images representing life on Earth.
+
+### New Horizons
+New Horizons was launched in 2006 and performed the first flyby of Pluto in July 2015. It revealed Pluto's nitrogen ice plains (Tombaugh Regio), mountains of water ice, and complex geology. New Horizons then flew by Arrokoth (a Kuiper Belt Object) in January 2019.
+
+### SpaceX
+SpaceX is a private aerospace company founded by Elon Musk in 2002. It developed the Falcon 9 reusable rocket, Falcon Heavy, and Dragon spacecraft. Crew Dragon has carried astronauts to the ISS since 2020. Starship is SpaceX's next-generation fully reusable launch vehicle designed for Mars missions. SpaceX has performed hundreds of successful rocket landings.
+
+### International Space Station (ISS)
+The ISS has been continuously inhabited since November 2000. It orbits Earth at about 400 km altitude. The ISS is a joint project of NASA, Roscosmos, ESA, JAXA, and CSA. It travels at 7.7 km/s, completing an orbit every 90 minutes.
+
+## TELESCOPES AND OBSERVATORIES
+
+### Radio Telescopes
+The Very Large Array (VLA) in New Mexico consists of 27 radio antennas. The Arecibo Observatory in Puerto Rico (now collapsed) was once the world's largest single-dish radio telescope. FAST (Five-hundred-meter Aperture Spherical Telescope) in China is currently the world's largest radio telescope. Radio telescopes detect radio waves from cosmic sources.
+
+### Space Observatories
+Chandra X-ray Observatory studies X-ray emissions from hot regions of the universe. Spitzer Space Telescope observed in infrared until 2020. Fermi Gamma-ray Space Telescope studies gamma-ray bursts and other high-energy phenomena.
+
+## KEY CONCEPTS IN ASTRONOMY
+
+### Light-Year
+A light-year is the distance light travels in one year — approximately 9.46 trillion kilometers. The nearest star to the Sun is Proxima Centauri, about 4.24 light-years away.
+
+### Redshift and Blueshift
+Redshift occurs when a light source moves away, stretching wavelengths toward the red end. Blueshift occurs when approaching. Cosmological redshift reveals the expansion of the universe.
+
+### Gravitational Waves
+Gravitational waves are ripples in spacetime caused by accelerating massive objects. LIGO detected the first gravitational waves in 2015 from two merging black holes. This confirmed a key prediction of Einstein's general relativity.
+
+### The Oort Cloud and Kuiper Belt
+The Kuiper Belt lies beyond Neptune and is home to Pluto, Eris, and many icy bodies. The Oort Cloud is a distant, spherical shell of icy objects far beyond the Kuiper Belt, thought to be the source of long-period comets.
+
+### Pluto
+Pluto was reclassified as a dwarf planet in 2006. It is located in the Kuiper Belt. Pluto has five moons, with Charon being the largest. New Horizons revealed Pluto's complex and surprisingly active geology.
